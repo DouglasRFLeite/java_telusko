@@ -1,0 +1,51 @@
+<!DOCTYPE web-app PUBLIC "-//Sun Microsystems, Inc.//DTD Web Application 2.3//EN" "http://java.sun.com/dtd/web-app_2_3.dtd">
+
+<web-app>
+  <!-- <servlet>
+    <servlet-name>abc</servlet-name>
+    <servlet-class>com.servlet.add.AddServlet</servlet-class>
+  </servlet>
+
+  <servlet-mapping>
+    <servlet-name>abc</servlet-name>
+    <url-pattern>/add</url-pattern>
+  </servlet-mapping>
+
+  <servlet>
+    <servlet-name>def</servlet-name>
+    <servlet-class>com.servlet.add.SquareServlet</servlet-class>
+  </servlet>
+
+  <servlet-mapping>
+    <servlet-name>def</servlet-name>
+    <url-pattern>/square</url-pattern>
+  </servlet-mapping>
+
+
+  <servlet>
+    <servlet-name>basic</servlet-name>
+    <servlet-class>com.servlet.basic.BasicServlet</servlet-class>
+
+    <init-param>
+      <param-name>specific-name</param-name>
+      <param-value>Douglas</param-value>
+    </init-param>
+  </servlet>
+
+  <servlet-mapping>
+    <servlet-name>basic</servlet-name>
+    <url-pattern>/basic</url-pattern>
+  </servlet-mapping>
+
+  <context-param>
+    <param-name>name</param-name>
+    <param-value>Douglas</param-value>
+  </context-param>
+
+  <context-param>
+    <param-name>phone</param-name>
+    <param-value>iPhone</param-value>
+  </context-param> -->
+
+
+</web-app>
